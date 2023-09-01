@@ -1,0 +1,10 @@
+.period{
+    background-color:lightyellow;
+    padding: 25px;
+    border-radius: 20px;
+    font-weight: 600;
+    display: flex;
+    width: 150px;
+    justify-content: space-evenly;
+    
+}
